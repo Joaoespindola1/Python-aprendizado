@@ -1,0 +1,4 @@
+Flamengo;3;Vasco;1
+Fluminense;2;Botafogo;1
+Sao Paulo;3;Corinthians;0
+Santos;3;Bragantino;7
